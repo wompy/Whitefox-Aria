@@ -19,7 +19,7 @@ SRC =	matrix.c \
 ifdef KEYMAP
     SRC := keymap_$(KEYMAP).c $(SRC)
 else
-    SRC := keymap_plain.c $(SRC)
+    SRC := keymap_mdk.c $(SRC)
 endif
 
 CONFIG_H = config.h

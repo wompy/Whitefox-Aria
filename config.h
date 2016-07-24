@@ -25,8 +25,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0001
 /* in python2: list(u"whatever".encode('utf-16-le')) */
 /*   at most 32 characters or the ugly hack in usb_main.c borks */
-#define MANUFACTURER "TMK"
-#define USBSTR_MANUFACTURER    'T', '\x00', 'M', '\x00', 'K', '\x00', ' ', '\x00'
+#define MANUFACTURER "MDK"
+#define USBSTR_MANUFACTURER    'M', '\x00', 'D', '\x00', 'K', '\x00', ' ', '\x00'
 #define PRODUCT "WhiteFox/TMK"
 #define USBSTR_PRODUCT         'W', '\x00', 'h', '\x00', 'i', '\x00', 't', '\x00', 'e', '\x00', 'F', '\x00', 'o', '\x00', 'x', '\x00', ' ', '\x00'
 
