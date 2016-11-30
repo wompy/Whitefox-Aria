@@ -1,8 +1,9 @@
 TMK/chibios for matt3o's WhiteFox
 =================================
-Added my custom keymap for whitefox aria layout.
-
-2015/12/10 Jun Wako
+2016-11-29: Coffeebot
+- Updated keymap_common to support the aria layout
+- Created in-code documentation to help people build for other layouts
+- Create keymap_aria with a basic keymap template
 
 This is unofficial keyobard firmware for matt3o's WhiteFox.
 
