@@ -25,4 +25,4 @@ $ make
 
 Upload
 ------
-$ make program
+https://github.com/kiibohd/controller/wiki/Loading-DFU-Firmware#mac-osx
